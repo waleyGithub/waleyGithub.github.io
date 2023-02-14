@@ -1,0 +1,55 @@
+---
+title: 尼尔森十大可用性原则
+data: 2023-01-03 21:14:47
+---
+## 1. 反馈原则 Visibility of system status
+系统应该在合理的时间、用正确的方式，向用户提示或反馈目前系统正在发生什么。
+
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. 
+
+## 2. 隐喻原则 Match between system and the real world
+系统应该使用用户的语言，使用用户熟悉的单词、短语和概念，而不是面向系统的术语。遵循现实世界的惯例，使信息以自然和逻辑的顺序出现。
+
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order. 
+
+## 3. 回退原则 User control and freedom
+用户经常错误地选择系统功能，他们将需要一个明确标记的 "紧急出口 "来离开不需要的状态，而不需要通过一个扩展的对话。支持撤销和重做。
+
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo. 
+
+## 4. 一致原则 Consistency and standards
+用户不应该怀疑不同的词语、情况或行动是否意味着同样的事情。遵循平台惯例。
+
+Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions. 
+
+## 5. 防错原则 Error prevention
+比好的错误信息更好的是精心的设计，它可以从一开始就防止问题的发生。要么消除容易出错的条件，要么检查这些条件，并在用户承诺行动之前向他们提供一个确认选项。
+
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action. 
+
+## 6. 记忆原则 Recognition rather than recall
+通过使对象、行动和选项可见，尽量减少用户的记忆负荷。用户不应该记住从对话的一个部分到另一个部分的信息。在适当的时候，系统的使用说明应该是可见的或容易检索的。
+
+Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
+
+## 7. 灵活易用原则 Flexibility and efficiency of use
+加速器--新手用户看不到--往往可以加快专家用户的互动，这样系统就可以同时满足没有经验和有经验的用户。允许用户定制频繁的操作。
+
+Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
+
+## 8. 简约设计原则 Aesthetic and minimalist design
+对话不应包含不相关或很少需要的信息。对话中每一个额外的信息单元都会与相关的信息单元竞争，并降低它们的相对可见度。
+
+Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
+
+## 9. 容错原则 Help users recognize, diagnose, and recover from errors
+错误信息应该用简单的语言表达（没有代码），精确地指出问题，并建设性地提出解决方案。
+
+Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution. 
+
+## 10. 帮助原则 Help and documentation
+尽管如果系统不需要文件就能使用会更好，但可能还是有必要提供帮助和文件。任何这样的信息都应该易于搜索，集中在用户的任务上，列出要执行的具体步骤，而且不要太大。
+
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+
+
