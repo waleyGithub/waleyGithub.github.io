@@ -2,6 +2,5 @@
 slug: /
 sidebar_position: 1
 ---
-## 产品
-## Test
+# 简介
 There should be an introduction.
