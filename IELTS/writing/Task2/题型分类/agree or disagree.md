@@ -2,6 +2,7 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
+- It is a good thing for the senior managers to have better salaries than other workers in a company or organization. To what extent do you agree or disagree?
 
 - Some people suggest that a country should try to produce all sorts of food for its population and import as little food as possible. To what extent do you agree or disagree?（2022年12月31日 中国大陆）
 
