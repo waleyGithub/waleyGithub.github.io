@@ -1,6 +1,7 @@
 ---
 title: 100句翻译练习（11～20）
 data: 2022年05月18日
+sidebar_position: 4
 ---
 
 11. reduce distractions and concentrate on studies 减少干扰，专注学习

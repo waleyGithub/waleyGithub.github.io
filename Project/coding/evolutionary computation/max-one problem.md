@@ -1,6 +1,7 @@
 ---
 title: OneMax Problem
 data: 2021-05-02 16:41:47
+sidebar_position: 2
 ---
 **OneMax问题是遗传算法的入门问题：如何使一段长度固定的二进制字符串所有位置上数字之和最大。**
 下面以长度10为例。

@@ -1,6 +1,7 @@
 ---
 title: 100句翻译练习（1～10）
 data: 2022年05月18日
+sidebar_position: 3
 ---
 
 1. increase cultural experiences 增加文化体验

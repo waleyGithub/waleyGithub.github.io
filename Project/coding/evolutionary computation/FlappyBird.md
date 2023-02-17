@@ -1,6 +1,7 @@
 ---
 title: FlappyBird
 data: 2021-12-05 21:23:47
+sidebar_position: 3
 ---
 ## **使用MLP与遗传算法玩FlappyBird** [GitHub链接](https://github.com/waleyCode/FlappyBird)
 ![flappyBird](./flappyBird.jpg)
