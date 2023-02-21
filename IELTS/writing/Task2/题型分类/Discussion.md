@@ -2,7 +2,9 @@
 title: Discussion
 data: 2023-02-04 15:56:11
 ---
-- Some people think they have right to use as much fresh water as they want, while others believe governments should strictly control the use of fresh water as it is limited resource. Discuss both views and give your own opinion. ​​​（2023年02月04日）
+- Some people think the government should pay for health care and education, while others believe that this is not the government's responsibility. Discuss both views and give your opinion.​​​（2023年02月18日 中国大陆）
+
+- Some people think they have right to use as much fresh water as they want, while others believe governments should strictly control the use of fresh water as it is limited resource. Discuss both views and give your own opinion. ​​​（2023年02月04日 中国大陆）
 
 - Some people think that watching TV is bad for children in every way, while others believe that it is good for children to grow up. Discuss both views and give your own opinion.（2022年12月03日 中国大陆）  
 
