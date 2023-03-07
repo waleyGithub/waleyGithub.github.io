@@ -2,6 +2,8 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
+- Employers should give their staff at least four weeks’ holiday a year to make employees better at their work. To what extent do you agree or disagree with this view? (2023年2月25日 中国大陆)
+
 - It is a good thing for the senior managers to have better salaries than other workers in a company or organization. To what extent do you agree or disagree? (2023年2月11日 中国大陆)
 
 - Some people suggest that a country should try to produce all sorts of food for its population and import as little food as possible. To what extent do you agree or disagree?（2022年12月31日 中国大陆）
