@@ -1,7 +1,9 @@
 ---
 title: Discussion
-data: 2023-02-04 15:56:11
+data: 2023-03-20 10:55:11
 ---
+- Some people think that older school children should learn a wide range of subjects and develop knowledge. But other people think that they should only learn a small number of subjects in detail. Discuss both views and give your opinion.​（2023年03月18日 中国大陆）
+
 - Some people think the government should pay for health care and education, while others believe that this is not the government's responsibility. Discuss both views and give your opinion.​​​（2023年02月18日 中国大陆）
 
 - Some people think they have right to use as much fresh water as they want, while others believe governments should strictly control the use of fresh water as it is limited resource. Discuss both views and give your own opinion. ​​​（2023年02月04日 中国大陆）

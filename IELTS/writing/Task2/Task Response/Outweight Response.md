@@ -48,7 +48,7 @@ data: 2021年09月03日
 ## 文体结构
 
     1. Introduction: 改写题目，给出个人观点预告：坏处多于好处
-    2. Body Paragraph 1: 坏处1
-    3. Body Paragraph 2: 好处1
-    4. Body Paragraph 3: 好处2
+    2. Body Paragraph 1: 好处1
+    3. Body Paragraph 2: 坏处1
+    4. Body Paragraph 3: 坏处2
     5. Conclusion: 总结，重复个人观点    
