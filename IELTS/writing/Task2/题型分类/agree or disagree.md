@@ -8,7 +8,7 @@ data: 2022年12月31日
 
 - Some people suggest that a country should try to produce all sorts of food for its population and import as little food as possible. To what extent do you agree or disagree?（2022年12月31日 中国大陆）
 
-- Some people think that there could be more benefits to society if more people study business than history. To what extent do you agree or disagree？（2022年12月17日 中国大陆)
+- Some people think that there could be more benefits to society if more people study business than history. To what extent do you agree or disagree？（2022年12月17日 中国大陆
 
 - Museums and art galleries should display local works rather than the cultural artworks of other countries. To what extent do you agree or disagree？（2022年12月10日 中国大陆)
 

@@ -22,7 +22,6 @@ const config = {
   projectName: 'waleyGithub.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -82,7 +81,6 @@ plugins: [
       path: "IELTS/reading",
       routeBasePath: "reading",
       sidebarPath: require.resolve("./sidebars.js"),
-//      editUrl: "https://git.7wate.com/zhouzhongping/wiki/src/branch/master",
       showLastUpdateAuthor: true,
       showLastUpdateTime: true,
       breadcrumbs: false,
