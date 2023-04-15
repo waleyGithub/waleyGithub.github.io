@@ -40,6 +40,8 @@ data: 2023-04-15 15:55:11
 
 - Some people think parents are responsible for taking their children to school. Others think it is the government’s responsibility. Discuss both views and give your own opinion.（2021年11月27日 中国大陆） 
 
+### 2021年10月09日 中国大陆
+Some people think it is more beneficial to play sports that are played in teams, e.g. football; Others, however, think it is more beneficial to play individual sports, e.g. tennis and swimming. Discuss both these views and give your own opinion.
 
 - Some people think financial aid from international organizations is important for developing countries. Others believe that practical aid is more useful. Discuss both views and give your own opinion.（2021年10月16日 中国大陆） 
 
