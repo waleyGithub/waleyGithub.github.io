@@ -1,8 +1,11 @@
 ---
 title: Discussion
-data: 2023-03-20 10:55:11
+data: 2023-04-15 15:55:11
 ---
-- Many people think hosting an international sporting event brings a lot of benefits to a country, while others believe that it has only disadvantages.Discuss both views and give your own opinion. ​​​​（2023年04月08日 中国大陆）
+- Some people think that paying taxes is enough to contribute to the society. Others argue that being a citizen involves more responsibilities. Discuss both views and give your opinion.​（2023年04月15日 中国大陆）
+
+
+- Many people think hosting an international sporting event brings a lot of benefits to a country, while others believe that it has only disadvantages.Discuss both views and give your own opinion. ​​（2023年04月08日 中国大陆）
 
 
 - Some people think that older school children should learn a wide range of subjects and develop knowledge. But other people think that they should only learn a small number of subjects in detail. Discuss both views and give your opinion.​（2023年03月18日 中国大陆）
