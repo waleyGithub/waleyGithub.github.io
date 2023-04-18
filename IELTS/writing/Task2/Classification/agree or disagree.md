@@ -149,28 +149,28 @@ The best way to reduce crime committed by young people is to teach their parents
 ### 2019年10月12日 大陆
 More and more people use computers and other electronic devices to access information. Therefore, there is no longer need to use printed books, magazines, or newspapers. To what extent do you agree or disagree? 
 
-### 2019年10月19-中国大陆
+### 2019年10月19 中国大陆
 The international community must act immediately to reduce the consumption of fossil fuels (gas and oil) in all countries. To what extend do u agree or disagree? 
 
-### 2019年10月26日-亚太
+### 2019年10月26日 亚太
 Although more and more people read the news on the internet, newspapers are still the most important source of news for the majority of people. To what extent do you agree or disagree? 
 
-### 2019年11月30日-中国大陆
+### 2019年11月30日 中国大陆
 In modern world, it is no longer necessary to use animals for foods or use animal products, for instance, clothing and medicines. To what extent do you agree or disagree? 
 
-### 2020年7月18日-中国大陆、2018年3月10日-中国大陆
+### 2020年7月18日 中国大陆、2018年3月10日 中国大陆
 Some people think that the best way to protect environment is to increase the price of the fuel of the cars and other vehicles. To what extent do you agree or disagree?
 
-### 2020年8月22日-中国大陆
+### 2020年8月22日 中国大陆
 The key to solving environmental problem is present generation must be willing to accept a less comfortable life for the sake of the future generation. To what extent do you agree or disagree?
 
-### 2019年9月14日-中国大陆/ 2018年8月11日澳洲
+### 2019年9月14日 中国大陆/ 2018年8月11日 澳洲
 It is a natural process for animal species to become extinct (Like dinosaur and dodo). There is no reason why people should try to prevent this from happening. To what extent do you agree or disagree? 
 
-### 2019年9月28日-亚太
+### 2019年9月28日 亚太
 Fossil fuels (coal, oil, natural gas) are the main sources in many countries, but in some countries the use of alternative sources of energy (wind energy and solar energy) are encouraged. To what extent do you think it is a positive or negative development？
 
-### 2019年10月26日-中国大陆
+### 2019年10月26日 中国大陆
 Some people think that companies and private individuals，not governments，should pay to clean up the pollution that they have produced. To what extend do you agree or disagree？
 
 ### 2019年11月23日 中国大陆
