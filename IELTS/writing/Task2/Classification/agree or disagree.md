@@ -2,14 +2,16 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
-### 2023年4月29日 中国大陆
+### 2023年05月06日 中国大陆
+Some people think that the government should provide assistance to all kinds of artists including painters, musicians and poets. However, other people think that this is a waste of money. Discuss both views and give your opinion.
+
+### 2023年04月29日 中国大陆
 It was predicted that, with the development of technology, people in the 21st century would have much more free time than in the past. To what extent has this prediction come true?
 
-
-### 2023年2月25日 中国大陆
+### 2023年02月25日 中国大陆
 Employers should give their staff at least four weeks’ holiday a year to make employees better at their work. To what extent do you agree or disagree with this view?
 
-### 2023年2月11日 中国大陆
+### 2023年02月11日 中国大陆
 It is a good thing for the senior managers to have better salaries than other workers in a company or organization. To what extent do you agree or disagree? 
 
 ### 2022年12月31日 中国大陆
