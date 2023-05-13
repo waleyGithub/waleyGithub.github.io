@@ -2,6 +2,9 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
+### 2023年05月13日 中国大陆 
+Nowadays，celebrities are more famous for their glamour and wealth than for their achievements.Some people think that this sets a bad example  for young people. To what extent do you agree or disagree with this?
+
 ### 2023年05月06日 中国大陆
 Some people think that the government should provide assistance to all kinds of artists including painters, musicians and poets. However, other people think that this is a waste of money. Discuss both views and give your opinion.
 
