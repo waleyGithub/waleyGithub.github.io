@@ -2,6 +2,14 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
+### 2023年05月27日 中国大陆 
+Professional workers like doctors and teachers should be paid more than sports and entertainment celebrities. To what extent do you agree or disagree?
+
+
+### 2023年05月20日 中国大陆
+Countries with long average working time are more economically successful , but they are also likely to suffer from negative social consequences . To what extent do you agree or disagree?
+
+
 ### 2023年05月13日 中国大陆 
 Nowadays，celebrities are more famous for their glamour and wealth than for their achievements. Some people think that this sets a bad example for young people. To what extent do you agree or disagree with this?
 
