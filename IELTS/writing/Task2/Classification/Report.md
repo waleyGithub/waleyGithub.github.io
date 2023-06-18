@@ -2,6 +2,9 @@
 title: Report
 data: 2023-04-01 14:57:00
 ---
+- Some ex-prisoners commit crimes again after being released from the prison. What do you think are the causes? What can be done to solve this problem？（2023年06月17日 中国大陆）
+
+
 - Despite better access to education, a significant number of adults cannot read or write. In what ways are people are disadvantaged without these skills? What government should do for this problem?（2023年04月01日 中国大陆）
 
 
