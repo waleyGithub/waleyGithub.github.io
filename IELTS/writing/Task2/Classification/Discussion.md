@@ -2,6 +2,9 @@
 title: Discussion
 data: 2023-04-15 15:55:11
 ---
+### 2023年06月24日 中国大陆
+Some people think secondary school students should learn international news as one of their subjects, while others believe that this is a waste of valuable time. Discuss both views and give your own opinion.
+
 
 ### 2023年04月15日 中国大陆
 Some people think that paying taxes is enough to contribute to the society. Others argue that being a citizen involves more responsibilities. Discuss both views and give your opinion.

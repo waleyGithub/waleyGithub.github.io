@@ -2,6 +2,10 @@
 title: To what extent do you agree or disagree?
 data: 2022年12月31日
 ---
+### 2023年07月01日 中国大陆 
+With the rapid development of communication technology such as smart phones, tablets and other mobile devices, some people think the disadvantages outweigh its advantages. To what extent do you agree or disagree?
+
+
 ### 2023年05月27日 中国大陆 
 Professional workers like doctors and teachers should be paid more than sports and entertainment celebrities. To what extent do you agree or disagree?
 
