@@ -1,7 +1,11 @@
 ---
 title: To what extent do you agree or disagree?
-data: 2022年12月31日
 ---
+
+### 2023年07月08日 中国大陆 
+When people go to another country, they should follow the local customs and traditions. To what extent do you agree or disagree?
+
+
 ### 2023年07月01日 中国大陆 
 With the rapid development of communication technology such as smart phones, tablets and other mobile devices, some people think the disadvantages outweigh its advantages. To what extent do you agree or disagree?
 
