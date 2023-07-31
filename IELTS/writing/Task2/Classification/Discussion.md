@@ -2,6 +2,9 @@
 title: Discussion
 data: 2023-04-15 15:55:11
 ---
+### 2023年07月29日 中国大陆
+In many different countries, most shops and products become the same. Some people think it is a positive development, while others think it is a negative development. Discuss both views and give your own opinion.
+
 ### 2023年06月24日 中国大陆
 Some people think secondary school students should learn international news as one of their subjects, while others believe that this is a waste of valuable time. Discuss both views and give your own opinion.
 
