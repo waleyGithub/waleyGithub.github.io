@@ -1,6 +1,11 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年08月19日 中国大陆
+Some people think that more public money should be spent on roads and motorways than on public transport systems. To what extent do you agree or disagree?
+
+### 2023年08月12日 中国大陆
+Young people who commit serious crimes should be punished in the same way as adults. To what extent do you agree or disagree?
 
 ### 2023年07月08日 中国大陆 
 When people go to another country, they should follow the local customs and traditions. To what extent do you agree or disagree?
