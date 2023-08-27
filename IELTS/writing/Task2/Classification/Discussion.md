@@ -2,6 +2,9 @@
 title: Discussion
 data: 2023-04-15 15:55:11
 ---
+### 2023年08月26日 中国大陆
+Some people think that the government should provide free housing, while others think that it is not the government’s responsibility. Discuss both views and give your opinion.
+
 ### 2023年07月29日 中国大陆
 In many different countries, most shops and products become the same. Some people think it is a positive development, while others think it is a negative development. Discuss both views and give your own opinion.
 
