@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2023年09月09日 中国大陆
+Some people suggest that young people should be encouraged to do some unpaid work for a period of time for the community to help people. Does it bring more benefits  than drawbacks to the community and the young people? 
+​​​
 ### 2022年09月17日 中国大陆
 In some countries, small town centre shops are going out of business because people tend to drive to large out-of-town stores. As a result, people without cars have limited access to out-of-town stores, and it may result in an increase in the use of cars. Do you think the disadvantages of this change outweigh its advantages?
 
