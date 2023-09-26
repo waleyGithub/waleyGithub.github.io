@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年09月23日 中国大陆
+Extreme sports, such as skydiving and skiing, are very dangerous and should be banned. To what extent do you agree or disagree with this statement?
+
 ### 2023年08月19日 中国大陆
 Some people think that more public money should be spent on roads and motorways than on public transport systems. To what extent do you agree or disagree?
 
