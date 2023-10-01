@@ -2,6 +2,9 @@
 title: Discussion
 data: 2023-04-15 15:55:11
 ---
+### 2023年09月30日 中国大陆
+Some people believe more actions can be taken to prevent crime, while others think that little can be done. Discuss both sides and give your own opinion.
+
 ### 2023年09月02日 中国大陆
 Some say the purpose of education is to prepare individuals to be useful to society. Others say the purpose of education is to achieve personal ambitions. Discuss both views and give your own opinion.
 
