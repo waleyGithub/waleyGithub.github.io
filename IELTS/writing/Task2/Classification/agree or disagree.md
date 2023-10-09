@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年10月07日 中国大陆
+Some people say that the use of mobile phones should be banned in public places, such as libraries, shops, and public transportation. To what extent do you agree or disagree？
+
 ### 2023年09月23日 中国大陆
 Extreme sports, such as skydiving and skiing, are very dangerous and should be banned. To what extent do you agree or disagree with this statement?
 
