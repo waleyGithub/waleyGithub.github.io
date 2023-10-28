@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年10月28日 中国大陆
+More and more people use computers and other electronic devices to access information. Therefore, there is no need to use printed books, magazines, or newspapers. To what extent do you agree or disagree?
+
 ### 2023年10月07日 中国大陆
 Some people say that the use of mobile phones should be banned in public places, such as libraries, shops, and public transportation. To what extent do you agree or disagree？
 
