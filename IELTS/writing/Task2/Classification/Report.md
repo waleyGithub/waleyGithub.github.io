@@ -2,6 +2,9 @@
 title: Report
 data: 2023-04-01 14:57:00
 ---
+### 2023年11月04日 中国大陆 
+In many countries, people wear more western-style clothes, e.g. jeans and T-shirts, than local traditional clothes. Why is this the case? Is this a positive or negative development?
+
 ### 2023年08月05日 中国大陆 
 In some countries there is not enough recycling of waste materials (e.g. paper, glass andcans). What are the reasons and solutions?
 
