@@ -1,7 +1,9 @@
 ---
 title: Discussion
-data: 2023-04-15 15:55:11
 ---
+### 2023年11月18日 中国大陆
+Some people think that all the lawbreakers should be taken into the prison, while others believe that there are better alternatives, (for example, doing some work or learning some skills in the community). Discuss both views and give your opinion.
+
 ### 2023年09月30日 中国大陆
 Some people believe more actions can be taken to prevent crime, while others think that little can be done. Discuss both sides and give your own opinion.
 
