@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年11月25日 中国大陆
+Many people feel that most of the urgent problems can only be solved by international cooperation. To what extent do you agree or disagree?
+
 ### 2023年10月28日 中国大陆
 More and more people use computers and other electronic devices to access information. Therefore, there is no need to use printed books, magazines, or newspapers. To what extent do you agree or disagree?
 
