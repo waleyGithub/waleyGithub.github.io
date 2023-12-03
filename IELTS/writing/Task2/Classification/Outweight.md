@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2023年12月02日 中国大陆
+More and more people buy and use their own car. Do you think the advantages of this trend for individuals outweigh the disadvantages for environment?
+
 ### 2023年09月09日 中国大陆
 Some people suggest that young people should be encouraged to do some unpaid work for a period of time for the community to help people. Does it bring more benefits  than drawbacks to the community and the young people? 
 ​​​
