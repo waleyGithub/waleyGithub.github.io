@@ -62,11 +62,14 @@ Museums and art galleries should display local works rather than the cultural ar
 ### 2022年11月19日 中国大陆
 Some people think secondary school students and high school students should be allowed to choose academic courses leading to university or practical courses leading to careers such as carpenters. To what extent do you agree or disagree？
 
+
 ### 2022年11月05日 中国大陆
 Some people think that men and women have different qualities. Therefore, some certain jobs are suitable for men and some jobs are suitable for women. To what extent do you agree or disagree? 
 
+
 ### 2022年10月29日 中国大陆
 Everyone should stay in school for formal education until they reach the age of 18. To what extent do you agree or disagree?
+
 
 ### 2022年10月08日 中国大陆
 The restoration of old buildings in major cities in the world costs numerous government's expenditure. This money should be used in new housing and road development. To what extent do you agree or disagree?
@@ -139,6 +142,7 @@ Education of young people is highly prioritized in many countries. However, educ
 
 ### 2021年06月17日 中国大陆
 More and more people are becoming seriously overweight. Some people suggest that the solution to problem is to increase the price of fattening foods. To what extent do you agree or disagree?
+
 
 ### 2021年06月05日 中国大陆
 Although family is a powerful influence in any child 's life, some influences from outside the home play a bigger part in their development. To what extent do you agree or disagree?

@@ -7,8 +7,10 @@ More and more people buy and use their own car. Do you think the advantages of t
 ### 2023年09月09日 中国大陆
 Some people suggest that young people should be encouraged to do some unpaid work for a period of time for the community to help people. Does it bring more benefits  than drawbacks to the community and the young people? 
 ​​​
+
 ### 2022年09月17日 中国大陆
 In some countries, small town centre shops are going out of business because people tend to drive to large out-of-town stores. As a result, people without cars have limited access to out-of-town stores, and it may result in an increase in the use of cars. Do you think the disadvantages of this change outweigh its advantages?
+
 
 ### 2022年07月23日 中国大陆
 More and more people move from the countryside to big cities. Does this development bring more advantages or disadvantages for the environment?
@@ -16,11 +18,14 @@ More and more people move from the countryside to big cities. Does this developm
 ### 2022年06月25日 中国大陆
 Due to the demand of oil and the gas，some people think that it is necessary to look for new sources of energy in some remote and untouched natural places. Do you think the advantages to locating sources in these places outweight the disadvantages of damaging such places？
  
+
 ### 2022年05月21日 中国大陆
 It is suggested that everyone in the world should have a car, a TV, and a fridge. Do you think the disadvantages outweigh the advantages for the society?
 
+
 ### 2022年04月23日 中国大陆
 In many places, city planners arrange shops, schools, offices and homes in different areas and separate them from each other. Do you think the advantages outweigh the disadvantages?
+
 
 ### 2022年04月09日 中国大陆
 In the past, people ate local food in season. Nowadays, people buy a variety of food from all over the world and any season. Do the advantages outweigh the disadvantages?
