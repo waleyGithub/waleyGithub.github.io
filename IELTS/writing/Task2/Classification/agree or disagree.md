@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2023年12月09日 中国大陆
+Most of leaders and directors of organizations are older people. Some people think it is better to have young people for these positions. To what extent do you agree or disagree?
+
 ### 2023年11月25日 中国大陆
 Many people feel that most of the urgent problems can only be solved by international cooperation. To what extent do you agree or disagree?
 
