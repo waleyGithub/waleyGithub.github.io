@@ -1,9 +1,8 @@
 ---
 title: Positive or negative
-data: 2023年01月28日
 ---
-
-- Organized tours to remote areas and communities are becoming increasingly popular. Do you think it is a positive or negative development for local people and the local environment?（2023年01月28日 中国大陆）
+### 2023年01月28日 中国大陆
+Organized tours to remote areas and communities are becoming increasingly popular. Do you think it is a positive or negative development for local people and the local environment?
 
 
 - More and more people are moving to cities, so the governments use parks and farmland near the city to build houses. Is it a positive or negative development？（2022年03月19日 中国大陆）
