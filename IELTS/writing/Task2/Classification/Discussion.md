@@ -1,6 +1,10 @@
 ---
 title: Discussion
 ---
+### 2023年12月16日 中国大陆
+Some people think the best way to be successful in life is to get a university education. Others disagree and think that is no longer ture. Discuss both views and give your own opinion.
+
+
 ### 2023年11月18日 中国大陆
 Some people think that all the lawbreakers should be taken into the prison, while others believe that there are better alternatives, (for example, doing some work or learning some skills in the community). Discuss both views and give your opinion.
 
