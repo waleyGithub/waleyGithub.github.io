@@ -5,10 +5,12 @@ title: Positive or negative
 Organized tours to remote areas and communities are becoming increasingly popular. Do you think it is a positive or negative development for local people and the local environment?
 
 
-- More and more people are moving to cities, so the governments use parks and farmland near the city to build houses. Is it a positive or negative development？（2022年03月19日 中国大陆）
+### 2022年03月19日 中国大陆
+More and more people are moving to cities, so the governments use parks and farmland near the city to build houses. Is it a positive or negative development？
 
 
-- More and more people no longer read the newspaper or watch TV programs to get news. They get news about the world through the Internet. Is this a positive or negative development? （2022年03月05日 中国大陆）
+### 2022年03月05日 中国大陆
+More and more people no longer read the newspaper or watch TV programs to get news. They get news about the world through the Internet. Is this a positive or negative development? 
 
 
 - People today can shop, work and communicate with others via the internet. They don't need to do these face to face. Is it a positive or negative development?（2022年03月03日 中国大陆）
