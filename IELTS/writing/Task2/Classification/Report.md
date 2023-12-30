@@ -2,6 +2,9 @@
 title: Report
 data: 2023-04-01 14:57:00
 ---
+### 2023年12月30日 中国大陆 
+Ambition is important for people to want success in many societies. How important is ambition to people？ Is ambition a positive or negative character？
+
 ### 2023年11月04日 中国大陆 
 In many countries, people wear more western-style clothes, e.g. jeans and T-shirts, than local traditional clothes. Why is this the case? Is this a positive or negative development?
 
