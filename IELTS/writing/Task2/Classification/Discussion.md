@@ -1,6 +1,10 @@
 ---
 title: Discussion
 ---
+### 2024年01月06日 中国大陆
+Some people believe children should have organized activities in their free time. Others believe children should decide what to do in their free time on their own. Discuss both sides and giveyour opinion.
+
+
 ### 2023年12月16日 中国大陆
 Some people think the best way to be successful in life is to get a university education. Others disagree and think that is no longer ture. Discuss both views and give your own opinion.
 
