@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年01月13日 中国大陆
+Some people think that it is a waste of time for individuals to plan for the future and that it is more important to focus on the present. To what extent do you agree or disagree? 
+​​​
 ### 2023年12月09日 中国大陆
 Most of leaders and directors of organizations are older people. Some people think it is better to have young people for these positions. To what extent do you agree or disagree?
 
