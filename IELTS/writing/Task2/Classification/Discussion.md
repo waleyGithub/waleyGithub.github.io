@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年01月27日 中国大陆
+Some people think a job not only provides income but also social life. Others think it is better to develop a social life with people you do not work with. Discuss both views and give your opinion.
+
 ### 2024年01月06日 中国大陆
 Some people believe children should have organized activities in their free time. Others believe children should decide what to do in their free time on their own. Discuss both sides and giveyour opinion.
 
