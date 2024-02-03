@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年02月03日 中国大陆
+some people think that the time children spend on watching TV affects their behavior, while others think that the content of TV programs they watch affects their behavior. Discuss both views and give your own opinlon.
+
 ### 2024年01月27日 中国大陆
 Some people think a job not only provides income but also social life. Others think it is better to develop a social life with people you do not work with. Discuss both views and give your opinion.
 
