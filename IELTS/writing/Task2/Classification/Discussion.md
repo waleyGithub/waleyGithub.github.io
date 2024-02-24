@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年02月24日 中国大陆
+Some people say that artworks (e.g. painting, music, poetry) can be created by everybody, whereas others say they can only be made by those with special ability. Discuss both views and give your own opinion.
+
 ### 2024年02月03日 中国大陆
 some people think that the time children spend on watching TV affects their behavior, while others think that the content of TV programs they watch affects their behavior. Discuss both views and give your own opinlon.
 
