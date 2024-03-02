@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2024年03月02日 中国大陆
+On vehicle-free day, private cars, trucks and motorcycles are banned in the city center while the public transport is permitted such as bicycles, buses and taxis. Do the benefits of the vehicle-free outweigh the disadvantages?
+
 ### 2023年12月02日 中国大陆
 More and more people buy and use their own car. Do you think the advantages of this trend for individuals outweigh the disadvantages for environment?
 
