@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年03月09日 中国大陆
+Some people think success of life is based on hard work and determination but others think there are more important factors like money and appearance. Discuss both sides and give your opinion.
+
 ### 2024年02月24日 中国大陆
 Some people say that artworks (e.g. painting, music, poetry) can be created by everybody, whereas others say they can only be made by those with special ability. Discuss both views and give your own opinion.
 
