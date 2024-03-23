@@ -3,6 +3,9 @@ title: Report
 data: 2023-04-01 14:57:00
 ---
 ### 2023年12月30日 中国大陆 
+A lot of young people do not know how to manage their money when graduating from high school. What do you think are the reasons? What can be done to teach them this important skill?
+
+### 2023年12月30日 中国大陆 
 Ambition is important for people to want success in many societies. How important is ambition to people？ Is ambition a positive or negative character？
 
 ### 2023年11月04日 中国大陆 
