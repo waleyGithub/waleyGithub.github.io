@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年04月06日 中国大陆
+Some people think advertising may have positive economic effects. Others think it has negative social effects because individuals are not satisfied with what they are and what they have. Discuss both views and give your own opinion.
+
 ### 2024年03月09日 中国大陆
 Some people think success of life is based on hard work and determination but others think there are more important factors like money and appearance. Discuss both sides and give your opinion.
 
