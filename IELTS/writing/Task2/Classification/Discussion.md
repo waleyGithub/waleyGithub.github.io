@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年04月13日 中国大陆
+Some people think most crimes are the result of circumstances like poverty and other social problems. Others believe that they are caused by people who are bad in nature. Discuss both views and give your own opinion.
+
 ### 2024年04月06日 中国大陆
 Some people think advertising may have positive economic effects. Others think it has negative social effects because individuals are not satisfied with what they are and what they have. Discuss both views and give your own opinion.
 
