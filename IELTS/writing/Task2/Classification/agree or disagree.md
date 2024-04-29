@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年04月27日 中国大陆
+In the past, historical and cultural objects were stored in the museums. But now, people can see them freely through the Internet. So some people claim that the museum will not be needed any longer. To what extent do you agree or disagree with this point of view?
+
 ### 2024年01月13日 中国大陆
 Some people think that it is a waste of time for individuals to plan for the future and that it is more important to focus on the present. To what extent do you agree or disagree? 
 ​​​
