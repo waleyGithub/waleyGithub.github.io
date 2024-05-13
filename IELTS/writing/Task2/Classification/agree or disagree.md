@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年05月11日 中国大陆
+The international community should immediately reduce the consumption of fossil fuels of all countries. To what extent do you agree or disagree?
+
 ### 2024年04月27日 中国大陆
 In the past, historical and cultural objects were stored in the museums. But now, people can see them freely through the Internet. So some people claim that the museum will not be needed any longer. To what extent do you agree or disagree with this point of view?
 
