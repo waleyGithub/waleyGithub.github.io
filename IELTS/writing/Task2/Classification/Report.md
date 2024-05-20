@@ -1,7 +1,9 @@
 ---
 title: Report
-data: 2023-04-01 14:57:00
 ---
+### 2024年05月18日 中国大陆 
+Mobile phones and the Internet could have many benefits for old people. However, this age group uses technology the least. What are the benefits for old people of using mobile phones and the Internet? How can we encourage them to use this new technology？
+
 ### 2023年12月30日 中国大陆 
 A lot of young people do not know how to manage their money when graduating from high school. What do you think are the reasons? What can be done to teach them this important skill?
 
