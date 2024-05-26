@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年05月25日 中国大陆
+It is impossible to help all needy people around the world, so governments should focus on helping people of their own country. To what extent do you agree or disagree? 
+
 ### 2024年05月11日 中国大陆
 The international community should immediately reduce the consumption of fossil fuels of all countries. To what extent do you agree or disagree?
 
