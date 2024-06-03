@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2024年06月01日 中国大陆
+Good health is very important to every person, so  some people think that medical service should not be run by profit-making companies. Do the advantages of private healthcare outweigh the disadvantages?
+
 ### 2024年03月02日 中国大陆
 On vehicle-free day, private cars, trucks and motorcycles are banned in the city center while the public transport is permitted such as bicycles, buses and taxis. Do the benefits of the vehicle-free outweigh the disadvantages?
 
