@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年06月08日 中国大陆
+Some people think the increasing business and cultural contact between countries brings many positive effects. Others say it causes the loss of national identities. Discuss both of these views and give your own opnion.
+
 ### 2024年04月20日 中国大陆
  Some people think technologic development encouraged crime but some others think that decreased crime. Discuss both views and give your opinion.
 
