@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年06月22日 中国大陆
+It is a natural process for animals to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason that people should try to prevent this from happening. To what extent do you agree or disagree?
+
 ### 2024年05月25日 中国大陆
 It is impossible to help all needy people around the world, so governments should focus on helping people of their own country. To what extent do you agree or disagree? 
 
