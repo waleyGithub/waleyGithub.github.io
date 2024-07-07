@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年07月07日 中国大陆
+Some people think individuals in today's society are more and more dependent on each other. Some people think they are more independent. Discuss both views and give your own opinion.
+
 ### 2024年06月08日 中国大陆
 Some people think the increasing business and cultural contact between countries brings many positive effects. Others say it causes the loss of national identities. Discuss both of these views and give your own opnion.
 
