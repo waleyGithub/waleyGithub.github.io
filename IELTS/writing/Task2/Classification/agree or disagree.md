@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年07月20日 中国大陆
+Some people think that the increasing use of computers and mobile phones has a negative effect on young people’s reading and writing skills. To what extent do you agree or disagree？
+
 ### 2024年06月22日 中国大陆
 It is a natural process for animals to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason that people should try to prevent this from happening. To what extent do you agree or disagree?
 
