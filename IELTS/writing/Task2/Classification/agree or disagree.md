@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年07月27日 中国大陆
+Employees can now do their work from home using modern technology. However, this change may only benefit workers, not employers. To what extent do you agree or disagree?
+
 ### 2024年07月20日 中国大陆
 Some people think that the increasing use of computers and mobile phones has a negative effect on young people’s reading and writing skills. To what extent do you agree or disagree？
 
