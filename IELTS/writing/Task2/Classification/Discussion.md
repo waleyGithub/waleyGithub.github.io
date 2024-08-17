@@ -8,7 +8,7 @@ Some people think individuals in today's society are more and more dependent on 
 Some people think the increasing business and cultural contact between countries brings many positive effects. Others say it causes the loss of national identities. Discuss both of these views and give your own opnion.
 
 ### 2024年04月20日 中国大陆
- Some people think technologic development encouraged crime but some others think that decreased crime. Discuss both views and give your opinion.
+Some people think technologic development encouraged crime but some others think that decreased crime. Discuss both views and give your opinion.
 
 ### 2024年04月13日 中国大陆
 Some people think most crimes are the result of circumstances like poverty and other social problems. Others believe that they are caused by people who are bad in nature. Discuss both views and give your own opinion.

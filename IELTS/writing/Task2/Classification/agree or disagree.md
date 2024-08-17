@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年08月17日 中国大陆
+It is a good thing for the senior managers to have better salaries than other workers in a company or organization? To what extant do you agree or disagree?
+
 ### 2024年07月27日 中国大陆
 Employees can now do their work from home using modern technology. However, this change may only benefit workers, not employers. To what extent do you agree or disagree?
 
@@ -46,18 +49,14 @@ Young people who commit serious crimes should be punished in the same way as adu
 ### 2023年07月08日 中国大陆 
 When people go to another country, they should follow the local customs and traditions. To what extent do you agree or disagree?
 
-
 ### 2023年07月01日 中国大陆 
 With the rapid development of communication technology such as smart phones, tablets and other mobile devices, some people think the disadvantages outweigh its advantages. To what extent do you agree or disagree?
-
 
 ### 2023年05月27日 中国大陆 
 Professional workers like doctors and teachers should be paid more than sports and entertainment celebrities. To what extent do you agree or disagree?
 
-
 ### 2023年05月20日 中国大陆
 Countries with long average working time are more economically successful , but they are also likely to suffer from negative social consequences . To what extent do you agree or disagree?
-
 
 ### 2023年05月13日 中国大陆 
 Nowadays，celebrities are more famous for their glamour and wealth than for their achievements. Some people think that this sets a bad example for young people. To what extent do you agree or disagree with this?
