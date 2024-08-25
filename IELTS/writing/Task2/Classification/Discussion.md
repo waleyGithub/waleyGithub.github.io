@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年08月24日 中国大陆
+Some people say governments should give health care the first priority, while some others believe there are more important priorities to spend the taxpayers' money. Discuss both views and give your opinion.
+
 ### 2024年07月07日 中国大陆
 Some people think individuals in today's society are more and more dependent on each other. Some people think they are more independent. Discuss both views and give your own opinion.
 
