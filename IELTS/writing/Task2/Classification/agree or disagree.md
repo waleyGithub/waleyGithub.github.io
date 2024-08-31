@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年08月31日 中国大陆
+The only reason for people to work hard is to earn money. To what extent do you agree or disagree?
+
 ### 2024年08月17日 中国大陆
 It is a good thing for the senior managers to have better salaries than other workers in a company or organization? To what extant do you agree or disagree?
 
