@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年09月07日 中国大陆
+In order to learn how other people in the world live, it is better to look at films and video records than written documents. To what extent do you agree or disagree?
+
 ### 2024年08月31日 中国大陆
 The only reason for people to work hard is to earn money. To what extent do you agree or disagree?
 
