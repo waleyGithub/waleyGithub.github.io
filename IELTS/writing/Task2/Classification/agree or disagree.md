@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年09月14日 中国大陆
+It is a good idea for people to continue working in their old age, if it is possible for them to do so. Do you agree or disagree?
+
 ### 2024年09月07日 中国大陆
 In order to learn how other people in the world live, it is better to look at films and video records than written documents. To what extent do you agree or disagree?
 
