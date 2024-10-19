@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年09月28日 中国大陆
+Some people believe that it is a good idea to continue to work at their old age. To what extent do you agree or disagree?
+
 ### 2024年09月14日 中国大陆
 It is a good idea for people to continue working in their old age, if it is possible for them to do so. Do you agree or disagree?
 
