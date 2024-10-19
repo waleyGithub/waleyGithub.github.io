@@ -4,6 +4,9 @@ title: Report
 ### 2024年10月19日 中国大陆
 Many students find it harder to study at university or college than at school. Why is this? What can be done to solve the problem?
 
+### 2024年10月12日 中国大陆
+Some countries spend a lot of money on making it easier to use bicycles in cities. Why is this the case? Is this the best way to solve traffic problems?
+
 ### 2024年08月10日 中国大陆
 In some countries around the world men and women are having babies late in life. What are the reasons? Do the benfits outweigh the drawbacks?
 
