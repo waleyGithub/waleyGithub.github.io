@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2024年10月26日 中国大陆
+In today's world, people spend a lot of money on appearance because they want to look younger. Why does this happen? Do you think this is a positive or negative development?
+
 ### 2024年10月19日 中国大陆
 Many students find it harder to study at university or college than at school. Why is this? What can be done to solve the problem?
 
