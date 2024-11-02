@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年11月02日 中国大陆
+The values that we learn from our parents and family have a greater influence on our future success than any knowledge and skills we acquire at school. To what extent do you agree or disagree with this statement?
+
 ### 2024年09月28日 中国大陆
 Some people believe that it is a good idea to continue to work at their old age. To what extent do you agree or disagree?
 
