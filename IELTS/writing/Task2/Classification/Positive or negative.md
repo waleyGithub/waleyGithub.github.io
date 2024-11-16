@@ -1,7 +1,7 @@
 ---
 title: Positive or negative
 ---
-### 2024年11月17日 中国大陆
+### 2024年11月16日 中国大陆
 People today can shop, work and communicate with others via the Internet instead of face to face communication. Is it a positive or negative development?
 
 ### 2023年01月28日 中国大陆
