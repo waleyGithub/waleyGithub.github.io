@@ -1,6 +1,9 @@
 ---
 title: Positive or negative
 ---
+### 2024年11月17日 中国大陆
+People today can shop, work and communicate with others via the Internet instead of face to face communication. Is it a positive or negative development?
+
 ### 2023年01月28日 中国大陆
 Organized tours to remote areas and communities are becoming increasingly popular. Do you think it is a positive or negative development for local people and the local environment?
 
