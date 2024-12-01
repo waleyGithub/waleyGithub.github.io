@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2024年11月30日 中国大陆
+Some celebrities say that their private lives should not come under media scrutiny. Other people, however, believe that they should accept it as part of their fame. Discuss both views and give your opinion. 
+
 ### 2024年11月23日 中国大陆
 Some people think studying in a college or university is the best way for successful career. Other people think people should get a job as soon as leaving school and develop the career through their work experience. Discuss both views and give your opinion.
 
