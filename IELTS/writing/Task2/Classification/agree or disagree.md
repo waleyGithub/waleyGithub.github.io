@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2024年12月08日 中国大陆
+One long-distance flight consumes the same amount of fuel which a car uses in several years’ time, but they cause the same amount of pollution. So some people think that we should discourage non-essential flights, such as tourist travel, rather than limit the use of cars. To what extent do you agree or disagree?
+
 ### 2024年11月02日 中国大陆
 The values that we learn from our parents and family have a greater influence on our future success than any knowledge and skills we acquire at school. To what extent do you agree or disagree with this statement?
 
