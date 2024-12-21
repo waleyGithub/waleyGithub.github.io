@@ -1,6 +1,7 @@
 ---
 title: Discussion
 ---
+
 ### 2024年11月30日 中国大陆
 Some celebrities say that their private lives should not come under media scrutiny. Other people, however, believe that they should accept it as part of their fame. Discuss both views and give your opinion. 
 

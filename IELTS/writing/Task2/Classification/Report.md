@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2024年12月21日 中国大陆
+More and more people today  want to get what they want instantly (e.g. goods, services, news), without having to wait. Why is this the case? Do you think this a positive or negative development?
+
 ### 2024年10月26日 中国大陆
 In today's world, people spend a lot of money on appearance because they want to look younger. Why does this happen? Do you think this is a positive or negative development?
 
