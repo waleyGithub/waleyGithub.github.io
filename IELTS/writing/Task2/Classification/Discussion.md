@@ -1,6 +1,8 @@
 ---
 title: Discussion
 ---
+### 2024年12月28日 中国大陆
+Some people think it is acceptable to use animals in any way for the benefit of humans. Others think it is wrong to exploit animals for human purposes.Discuss both these views and give your own opinion.
 
 ### 2024年11月30日 中国大陆
 Some celebrities say that their private lives should not come under media scrutiny. Other people, however, believe that they should accept it as part of their fame. Discuss both views and give your opinion. 
