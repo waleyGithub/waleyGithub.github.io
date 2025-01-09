@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年01月04日 中国大陆
+An increasing number of people today are changing their careers. What are the reasons? Is it a positive or negative development for the society as a whole? ​​​
+
 ### 2024年12月21日 中国大陆
 More and more people today  want to get what they want instantly (e.g. goods, services, news), without having to wait. Why is this the case? Do you think this a positive or negative development?
 
