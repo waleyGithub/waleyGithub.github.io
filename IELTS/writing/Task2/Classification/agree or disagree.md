@@ -1,7 +1,10 @@
 ---
 title: To what extent do you agree or disagree?
 ---
-### 2024年01月11日 中国大陆
+### 2025年01月18日 中国大陆
+Some people think that there could be more benefits to society if more people studied business than history. To what extent do you agree or disagree?
+
+### 2025年01月11日 中国大陆
 Some people say that the fashion industry is bad for the environment, as it encourages consumers to buy new clothes all the time. To what extent do you agree or disagree.
 
 ### 2024年12月14日 中国大陆
