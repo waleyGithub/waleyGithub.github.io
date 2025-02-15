@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年02月15日 中国大陆
+The best way to protect environment is to use local resources (eg:foods,buildings,materials) rather than transporting resources from other places. To what extent do you agree or disagree？
+
 ### 2025年01月18日 中国大陆
 Some people think that there could be more benefits to society if more people studied business than history. To what extent do you agree or disagree?
 
