@@ -122,7 +122,7 @@ plugins: [
     "@docusaurus/plugin-content-docs",
     {
       id: "Product-Manager",
-      path: "Project/Product Manager",
+      path: "Workspace/Product Manager",
       routeBasePath: "Product Manager",
       sidebarPath: require.resolve("./sidebars.js"),
 //      editUrl: "https://git.7wate.com/zhouzhongping/wiki/src/branch/master",
@@ -137,7 +137,7 @@ plugins: [
     "@docusaurus/plugin-content-docs",
     {
       id: "Coding",
-      path: "Project/Coding",
+      path: "Workspace/Coding",
       routeBasePath: "Coding",
       sidebarPath: require.resolve("./sidebars.js"),
 //      editUrl: "https://git.7wate.com/zhouzhongping/wiki/src/branch/master",
@@ -192,7 +192,7 @@ plugins: [
           },
         {
             position:"left",
-            label:"🗂️ Project",
+            label:"🗂️ Workspace",
             items:[
                 {
                   label: "Product Manager",
