@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年02月22日 中国大陆
+Many people think modern communication technology is having some negative effects on social relationships. To what extent do you agree or disagree? 
+
 ### 2025年02月15日 中国大陆
 The best way to protect environment is to use local resources (eg:foods,buildings,materials) rather than transporting resources from other places. To what extent do you agree or disagree？
 
