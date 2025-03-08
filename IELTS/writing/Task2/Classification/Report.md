@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年03月08日 中国大陆
+In more and more countries, people choose to give money on special occasions rather than giving gifts chosen personally. Why might this be the case? Is it a positive or a negative development?
+
 ### 2025年01月04日 中国大陆
 An increasing number of people today are changing their careers. What are the reasons? Is it a positive or negative development for the society as a whole? ​​​
 
