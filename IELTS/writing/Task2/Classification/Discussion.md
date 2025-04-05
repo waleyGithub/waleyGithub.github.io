@@ -2,6 +2,9 @@
 title: Discussion
 ---
 ### 2024年12月28日 中国大陆
+Some people think that maths is important for school children, while many others think that other subjects are more important. Discuss both these views and give your own opinion.
+
+### 2024年12月28日 中国大陆
 Some people think it is acceptable to use animals in any way for the benefit of humans. Others think it is wrong to exploit animals for human purposes.Discuss both these views and give your own opinion.
 
 ### 2024年11月30日 中国大陆
