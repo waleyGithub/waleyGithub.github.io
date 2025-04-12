@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年04月12日 中国大陆
+High-level computer skills are a necessary and essential factor leading to a successful career. To what extent do you agree or disagree?
+
 ### 2025年03月29日 中国大陆
 Old buildings are of historical importance and should be preserved in cities and countrysides. To what extent do you agree or disagree?
 
