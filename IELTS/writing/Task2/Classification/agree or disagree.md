@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年05月10日 中国大陆
+Everyone should become a vegetarian because they do not need to eat meat to have a healthy diet. To what extent do you agree or disagree?
+
 ### 2025年04月12日 中国大陆
 High-level computer skills are a necessary and essential factor leading to a successful career. To what extent do you agree or disagree?
 
