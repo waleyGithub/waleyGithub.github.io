@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年05月17日 中国大陆
+The media should include more stories which report good news. To what extent do you agree or disagree?
+
 ### 2025年05月10日 中国大陆
 Everyone should become a vegetarian because they do not need to eat meat to have a healthy diet. To what extent do you agree or disagree?
 
