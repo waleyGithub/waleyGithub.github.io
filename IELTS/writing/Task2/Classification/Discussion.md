@@ -2,6 +2,9 @@
 title: Discussion
 ---
 ### 2025年04月25日 中国大陆
+Some people think that violent films and video games have negative effects on people and should be banned，while others think that they are just relaxation sources. Discuss both sides and give your own opinion. ​​​
+
+### 2025年04月25日 中国大陆
 Some people think that teachers should be responsible for teaching students to judge what is right and wrong and to behave well. Others say that teachers should only teach students academic subjects. Discuss both these views and give your own opinion. 
 
 ### 2024年12月28日 中国大陆
