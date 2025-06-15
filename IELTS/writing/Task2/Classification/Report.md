@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年06月14日 中国大陆
+In some countries, the number of people visiting art galleries is reducing. What are the reasons for this? How can we solve this problem?
+
 ### 2025年03月08日 中国大陆
 In more and more countries, people choose to give money on special occasions rather than giving gifts chosen personally. Why might this be the case? Is it a positive or a negative development?
 
