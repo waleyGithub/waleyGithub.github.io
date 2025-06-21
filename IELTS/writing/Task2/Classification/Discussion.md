@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2025年06月21日 中国大陆
+Some people think that newly built houses should follow the style of old houses in the local areas. Others think that people should have the freedom to build houses of their own style. Discuss both views and give your own opinion. ​​​
+
 ### 2025年04月25日 中国大陆
 Some people think that violent films and video games have negative effects on people and should be banned，while others think that they are just relaxation sources. Discuss both sides and give your own opinion. ​​​
 
