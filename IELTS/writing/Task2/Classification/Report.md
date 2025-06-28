@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年06月28日 中国大陆
+An increasing number of developing countries are expanding their tourist industry. Why is this the case? Do you think it is a positive development?
+
 ### 2025年06月14日 中国大陆
 In some countries, the number of people visiting art galleries is reducing. What are the reasons for this? How can we solve this problem?
 
