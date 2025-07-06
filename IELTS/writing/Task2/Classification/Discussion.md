@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2025年07月05日 中国大陆
+Some people think technology mostly benefits our lives, while others believe it brings more disadvantages. Discuss both views and give your own opinion.
+
 ### 2025年06月21日 中国大陆
 Some people think that newly built houses should follow the style of old houses in the local areas. Others think that people should have the freedom to build houses of their own style. Discuss both views and give your own opinion. ​​​
 
