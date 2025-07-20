@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年07月19日 中国大陆
+Improving the lives of human being is more important than protecting the animal and birds. What extend do you agree or disagree?
+
 ### 2025年05月17日 中国大陆
 The media should include more stories which report good news. To what extent do you agree or disagree?
 
