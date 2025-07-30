@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2025年07月26日 中国大陆
+In many places, people's lifestyles are changing rapidly, and this affects family relationships. Do the advantages of this trend outweigh the disadvantages?
+
 ### 2025年03月15日 中国大陆
 Some people think that a high salary is the most important factor when choosing a job. Do you think the advantages outweigh the disadvantages?
 
