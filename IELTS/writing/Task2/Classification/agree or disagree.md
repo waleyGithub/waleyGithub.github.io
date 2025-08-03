@@ -1,6 +1,9 @@
 ---
 title: To what extent do you agree or disagree?
 ---
+### 2025年08月01日 中国大陆
+The government should spend money in promoting sport and art in school, rather than sponoring professional sports and art events in communities. To what extent do you agree or disagree?
+
 ### 2025年07月19日 中国大陆
 Improving the lives of human being is more important than protecting the animal and birds. What extend do you agree or disagree?
 
