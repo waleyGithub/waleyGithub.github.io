@@ -1,6 +1,9 @@
 ---
 title: Outweight
 ---
+### 2025年08月09日 中国大陆
+There are more and more older workers working in companies. Does this trend have more advantages or disadvantages for a company?
+
 ### 2025年07月26日 中国大陆
 In many places, people's lifestyles are changing rapidly, and this affects family relationships. Do the advantages of this trend outweigh the disadvantages?
 
