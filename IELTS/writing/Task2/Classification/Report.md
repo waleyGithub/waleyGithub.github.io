@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年08月16日 中国大陆
+Report shows that many people spend their time sitting down, which could lead to health problems. Why do you think many people spend time sitting down? What are the best ways to reduce people's time sitting down?
+
 ### 2025年06月28日 中国大陆
 An increasing number of developing countries are expanding their tourist industry. Why is this the case? Do you think it is a positive development?
 
@@ -11,7 +14,7 @@ In some countries, the number of people visiting art galleries is reducing. What
 In more and more countries, people choose to give money on special occasions rather than giving gifts chosen personally. Why might this be the case? Is it a positive or a negative development?
 
 ### 2025年01月04日 中国大陆
-An increasing number of people today are changing their careers. What are the reasons? Is it a positive or negative development for the society as a whole? ​​​
+An increasing number of people today are changing their careers. What are the reasons? Is it a positive or negative development for the society as a whole?
 
 ### 2024年12月21日 中国大陆
 More and more people today  want to get what they want instantly (e.g. goods, services, news), without having to wait. Why is this the case? Do you think this a positive or negative development?
