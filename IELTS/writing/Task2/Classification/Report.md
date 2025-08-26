@@ -1,6 +1,9 @@
 ---
 title: Report
 ---
+### 2025年08月23日 中国大陆
+Now men and women's clothing styles are similar. Why is this happening? Is it a positive or negative development?
+
 ### 2025年08月16日 中国大陆
 Report shows that many people spend their time sitting down, which could lead to health problems. Why do you think many people spend time sitting down? What are the best ways to reduce people's time sitting down?
 
