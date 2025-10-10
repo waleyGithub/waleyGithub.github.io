@@ -1,6 +1,9 @@
 ---
 title: Discussion
 ---
+### 2025年09月27日 中国大陆
+Some people think the government should spend money to look for life on other planets, other think it is a waste of public money, because there are other problems unsolved on earth. Discuss both views and give your own opinion.
+
 ### 2025年07月05日 中国大陆
 Some people think technology mostly benefits our lives, while others believe it brings more disadvantages. Discuss both views and give your own opinion.
 
