@@ -4,6 +4,9 @@ title: Discussion
 ### 2025年11月22日 中国大陆
 Some people think that students in schools could study better in groups, some think that learning on their own in schools is a better choice.Discuss both views and give your own opinion.
 
+### 2025年11月16日 中国大陆
+Some people think that the ability to compete with others for a successful career is more important. Others believe that the ability to work with others as a team is more important. Discuss both these views and give your own opinion.
+
 ### 2025年09月27日 中国大陆
 Some people think the government should spend money to look for life on other planets, other think it is a waste of public money, because there are other problems unsolved on earth. Discuss both views and give your own opinion.
 
