@@ -7,6 +7,9 @@ Some people think that students in schools could study better in groups, some th
 ### 2025年11月16日 中国大陆
 Some people think that the ability to compete with others for a successful career is more important. Others believe that the ability to work with others as a team is more important. Discuss both these views and give your own opinion.
 
+### 2025年11月01日 中国大陆
+Some people think that it’s better to grow food by using scientific techniques, others think that it is better to grow food naturally. Discuss both views and give your own opinion.
+
 ### 2025年09月27日 中国大陆
 Some people think the government should spend money to look for life on other planets, other think it is a waste of public money, because there are other problems unsolved on earth. Discuss both views and give your own opinion.
 
